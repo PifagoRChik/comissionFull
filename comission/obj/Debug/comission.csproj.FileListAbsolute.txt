@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\bin\Debug\comission.exe.config
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\bin\Debug\comission.exe
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\bin\Debug\comission.pdb
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.firstForm.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.mainForm.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.UserControls.addNewUser.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.UserControls.allStudents.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.UserControls.attestatInfo.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.UserControls.helpForm.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.UserControls.studentInfo.resources
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.csproj.CopyComplete
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.exe
+C:\Users\User\Desktop\Курсовая Сычева\comission\comission\obj\Debug\comission.pdb
